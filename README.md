@@ -61,7 +61,7 @@ Introduction to the basics of startup financing. Major investors, funds, and opi
 #### Day 11 Introduction to the businessplan 
 Formulating a business plan for the startup: Gross income, cost-of-goods, marketing, operations, cash flow and cash burn, etc. Valuation 
 
-#### Days 12 and 13 Studio class: businessplan and pitch deck Developing a businessplan and a full pitch deck 
-D
-#### ay 14 Final presentation 
+#### Days 12 and 13 Studio class Businessplan and pitch deck
+Developing a businessplan and a full pitch deck 
+#### Day 14 Final presentation 
 The interactive media startup 
